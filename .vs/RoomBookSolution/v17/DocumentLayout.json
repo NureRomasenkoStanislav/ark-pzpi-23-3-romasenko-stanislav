@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\ATARK\\RoomBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\ATARK\\RoomBook\\roombook.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|a:\\atark\\roombook\\roombook\\hubs\\iothub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\hubs\\iothub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|a:\\atark\\roombook\\roombook\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|a:\\atark\\roombook\\roombook\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\ATARK\\RoomBook\\roombook.infrastructure\\data\\roombookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\data\\roombookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\entities\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|a:\\atark\\roombook\\roombook\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\dto\\roomusagereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\roomusagereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\dto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\dtos\\roomusagereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\dtos\\roomusagereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\dto\\availabilityquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\availabilityquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\ATARK\\RoomBook\\roombook.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\ATARK\\RoomBook\\roombook.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\dto\\bookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\bookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\ATARK\\RoomBook\\roombook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\ATARK\\RoomBook\\roombook.infrastructure\\roombook.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\roombook.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\ATARK\\RoomBook\\roombook.core\\entities\\roomequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\roomequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IotService.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Services\\IotService.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Services\\IotService.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Services\\IotService.cs",
+              "RelativeToolTip": "RoomBook\\Services\\IotService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:52:05.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IotHub.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Hubs\\IotHub.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Hubs\\IotHub.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Hubs\\IotHub.cs",
+              "RelativeToolTip": "RoomBook\\Hubs\\IotHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:13:03.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\RoomDto.cs",
+              "RelativeDocumentMoniker": "RoomBook\\DTO\\RoomDto.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\RoomDto.cs",
+              "RelativeToolTip": "RoomBook\\DTO\\RoomDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:00:24.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:02:16.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "RoomBook\\DTO\\UserCreateDto.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\UserCreateDto.cs",
+              "RelativeToolTip": "RoomBook\\DTO\\UserCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:30:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Program.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Program.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Program.cs",
+              "RelativeToolTip": "RoomBook\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwv0MAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:04:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IotController.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\IotController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\IotController.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\IotController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\IotController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:23:40.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "RoomBook\\DTO\\UserUpdateDto.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\UserUpdateDto.cs",
+              "RelativeToolTip": "RoomBook\\DTO\\UserUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:31:15.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Services\\AuthService.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Services\\AuthService.cs",
+              "RelativeToolTip": "RoomBook\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:12:43.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\AuthController.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:27:57.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:17:07.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "RoomBook\\DTO\\LoginDto.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "RoomBook\\DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:10:37.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\BookingsController.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:16:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:37:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\Booking.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\Booking.cs",
+              "RelativeToolTip": "RoomBook.Core\\Entities\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:55:03.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\Equipment.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\Equipment.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\Equipment.cs",
+              "RelativeToolTip": "RoomBook.Core\\Entities\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:43:13.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomBookDbContext.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:01:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\Room.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\Room.cs",
+              "RelativeToolTip": "RoomBook.Core\\Entities\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:42:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:59:41.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomUsageReportDto.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\RoomUsageReportDto.cs",
+              "RelativeDocumentMoniker": "RoomBook\\DTO\\RoomUsageReportDto.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\RoomUsageReportDto.cs",
+              "RelativeToolTip": "RoomBook\\DTO\\RoomUsageReportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:24:12.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:16:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IAuthService.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:11:04.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomUsageReportDto.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\DTOs\\RoomUsageReportDto.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\DTOs\\RoomUsageReportDto.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\DTOs\\RoomUsageReportDto.cs",
+              "RelativeToolTip": "RoomBook.Core\\DTOs\\RoomUsageReportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:39:35.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AvailabilityQueryDto.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\AvailabilityQueryDto.cs",
+              "RelativeDocumentMoniker": "RoomBook\\DTO\\AvailabilityQueryDto.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\AvailabilityQueryDto.cs",
+              "RelativeToolTip": "RoomBook\\DTO\\AvailabilityQueryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:14:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:35:19.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookingRequestDto.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\BookingRequestDto.cs",
+              "RelativeDocumentMoniker": "RoomBook\\DTO\\BookingRequestDto.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\DTO\\BookingRequestDto.cs",
+              "RelativeToolTip": "RoomBook\\DTO\\BookingRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:13:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\UsersController.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:30:29.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\RoomsController.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\RoomsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:00:50.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomBook\\appsettings.json",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook\\appsettings.json",
+              "RelativeToolTip": "RoomBook\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T17:03:26.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoomBook.Infrastructure.csproj",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj",
+              "RelativeToolTip": "RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T13:35:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoomEquipment.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\RoomEquipment.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\RoomEquipment.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\RoomEquipment.cs",
+              "RelativeToolTip": "RoomBook.Core\\Entities\\RoomEquipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:54:51.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\User.cs",
+              "ToolTip": "A:\\ATARK\\RoomBook\\RoomBook.Core\\Entities\\User.cs",
+              "RelativeToolTip": "RoomBook.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:42:18.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
