@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.iotclient\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|solutionrelative:roombook.iotclient\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.iotclient\\devicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|solutionrelative:roombook.iotclient\\devicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\hubs\\roomhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\hubs\\roomhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\interfaces\\iiotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iiotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\interfaces\\iroomhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iroomhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\roombook.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\roombook.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.iotclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|solutionrelative:roombook.iotclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\middleware\\maintenancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\middleware\\maintenancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\services\\systemstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\services\\systemstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\interfaces\\isystemstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\isystemstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.infrastructure\\data\\roombookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\data\\roombookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.infrastructure\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.core\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\atark\\roombook\\lab2\\ark-pzpi-23-3-romasenko-stanislav-lab2\\roombook.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomBook\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\appsettings.json",
+              "RelativeToolTip": "RoomBook\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T14:58:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IotService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.IotClient\\IotService.cs",
+              "RelativeDocumentMoniker": "RoomBook.IotClient\\IotService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.IotClient\\IotService.cs",
+              "RelativeToolTip": "RoomBook.IotClient\\IotService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T11:21:31.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:52:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IotService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Services\\IotService.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Services\\IotService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Services\\IotService.cs",
+              "RelativeToolTip": "RoomBook\\Services\\IotService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:19:57.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Program.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Program.cs",
+              "RelativeToolTip": "RoomBook\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:37:46.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomBook.Core",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\RoomBook.Core.csproj",
+              "RelativeDocumentMoniker": "RoomBook.Core\\RoomBook.Core.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\RoomBook.Core.csproj",
+              "RelativeToolTip": "RoomBook.Core\\RoomBook.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T13:47:25.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.IotClient\\DeviceSettings.cs",
+              "RelativeDocumentMoniker": "RoomBook.IotClient\\DeviceSettings.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.IotClient\\DeviceSettings.cs",
+              "RelativeToolTip": "RoomBook.IotClient\\DeviceSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T11:00:20.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoomHub.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IRoomHub.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IRoomHub.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IRoomHub.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IRoomHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:49:16.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.IotClient\\Program.cs",
+              "RelativeDocumentMoniker": "RoomBook.IotClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.IotClient\\Program.cs",
+              "RelativeToolTip": "RoomBook.IotClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T11:42:54.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomHub.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Hubs\\RoomHub.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Hubs\\RoomHub.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Hubs\\RoomHub.cs",
+              "RelativeToolTip": "RoomBook\\Hubs\\RoomHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T11:45:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Services\\BookingService.cs",
+              "RelativeToolTip": "RoomBook.Core\\Services\\BookingService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:25:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IIotService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IIotService.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IIotService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IIotService.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IIotService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:50:53.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SystemStateService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Services\\SystemStateService.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Services\\SystemStateService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Services\\SystemStateService.cs",
+              "RelativeToolTip": "RoomBook\\Services\\SystemStateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:42:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wCMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:26:42.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaintenanceMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Middleware\\MaintenanceMiddleware.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Middleware\\MaintenanceMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Middleware\\MaintenanceMiddleware.cs",
+              "RelativeToolTip": "RoomBook\\Middleware\\MaintenanceMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:29:04.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISystemStateService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\ISystemStateService.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\ISystemStateService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\ISystemStateService.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\ISystemStateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:35:32.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:22:11.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:31:08.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:32:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:42:30.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:31:55.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:22:10.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "RoomBook.Core\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:31:12.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomBookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:17:31.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:24:05.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Core\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:31:25.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ATARK\\RoomBook\\Lab2\\ark-pzpi-23-3-romasenko-stanislav-Lab2\\RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:22:10.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
