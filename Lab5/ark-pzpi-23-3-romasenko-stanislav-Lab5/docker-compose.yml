@@ -1,0 +1,26 @@
+version: '3.4'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: roombook-db
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=YourStrongPassword123!
+    ports:
+      - "1433:1433"
+
+  api:
+    image: roombook-api
+    container_name: roombook-api-container
+    build:
+      context: .
+      dockerfile: Dockerfile 
+    ports:
+      - "7242:8080"
+    depends_on:
+      - sqlserver
+    environment:
+      - ConnectionStrings__RoomBookConnection=Server=sqlserver;Database=RoomBookDB;User Id=sa;Password=YourStrongPassword123!;TrustServerCertificate=True;MultipleActiveResultSets=true;
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8080
