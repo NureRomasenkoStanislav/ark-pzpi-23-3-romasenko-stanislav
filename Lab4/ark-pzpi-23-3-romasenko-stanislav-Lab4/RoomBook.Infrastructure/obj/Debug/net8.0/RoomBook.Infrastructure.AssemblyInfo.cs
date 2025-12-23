@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoomBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6c449013185fcf907e684ca51d065d89a5c3271")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c5ba2e29c78eaa5169b5a9e7ba70ffc9066a962")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoomBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoomBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

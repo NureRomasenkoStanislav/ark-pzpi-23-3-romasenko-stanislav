@@ -3,132 +3,44 @@
   "WorkspaceRootPath": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|a:\\1\\ark-pzpi-23-3-romasenko-stanislav\\lab4\\ark-pzpi-23-3-romasenko-stanislav-lab4\\roombook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|a:\\1\\ark-pzpi-23-3-romasenko-stanislav\\lab4\\ark-pzpi-23-3-romasenko-stanislav-lab4\\roombook.iotclient\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|solutionrelative:roombook.iotclient\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\hubs\\iothub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\hubs\\iothub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|a:\\1\\ark-pzpi-23-3-romasenko-stanislav\\lab4\\ark-pzpi-23-3-romasenko-stanislav-lab4\\roombook\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|a:\\1\\ark-pzpi-23-3-romasenko-stanislav\\lab4\\ark-pzpi-23-3-romasenko-stanislav-lab4\\roombook\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|a:\\1\\ark-pzpi-23-3-romasenko-stanislav\\lab4\\ark-pzpi-23-3-romasenko-stanislav-lab4\\roombook.iotclient\\roombook.iotclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6215C6B-9FA6-4EA2-AE18-2AC6AE62DE64}|RoomBook.IotClient\\RoomBook.IotClient.csproj|solutionrelative:roombook.iotclient\\roombook.iotclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.infrastructure\\data\\roombookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\data\\roombookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\roombook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\roombook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\entities\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\dto\\roomusagereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\roomusagereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\dto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\dtos\\roomusagereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\dtos\\roomusagereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\dto\\availabilityquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\availabilityquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\dto\\bookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\dto\\bookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.infrastructure\\roombook.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\roombook.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.core\\entities\\roomequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B192B981-82E0-4B32-ABFF-CD7DCC0F8D72}|RoomBook.Core\\RoomBook.Core.csproj|solutionrelative:roombook.core\\entities\\roomequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CE561-DDE9-4A43-B03C-DD2B6E383012}|RoomBook\\RoomBook.csproj|solutionrelative:roombook\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\roombook.infrastructure\\data\\roombookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94C4A-55CE-47FC-AAD2-0DB459F3C05A}|RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj|solutionrelative:roombook.infrastructure\\data\\roombookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,392 +50,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IotService.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Services\\IotService.cs",
-              "RelativeDocumentMoniker": "RoomBook\\Services\\IotService.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Services\\IotService.cs",
-              "RelativeToolTip": "RoomBook\\Services\\IotService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IotHub.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Hubs\\IotHub.cs",
-              "RelativeDocumentMoniker": "RoomBook\\Hubs\\IotHub.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Hubs\\IotHub.cs",
-              "RelativeToolTip": "RoomBook\\Hubs\\IotHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RoomDto.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\RoomDto.cs",
-              "RelativeDocumentMoniker": "RoomBook\\DTO\\RoomDto.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\RoomDto.cs",
-              "RelativeToolTip": "RoomBook\\DTO\\RoomDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\BookingRepository.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAQwAsAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserCreateDto.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\UserCreateDto.cs",
-              "RelativeDocumentMoniker": "RoomBook\\DTO\\UserCreateDto.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\UserCreateDto.cs",
-              "RelativeToolTip": "RoomBook\\DTO\\UserCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.836Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Program.cs",
-              "RelativeDocumentMoniker": "RoomBook\\Program.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Program.cs",
-              "RelativeToolTip": "RoomBook\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAADwv0MAAAAKAAAA",
+              "Title": "IotService.cs",
+              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.IotClient\\IotService.cs",
+              "RelativeDocumentMoniker": "RoomBook.IotClient\\IotService.cs",
+              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.IotClient\\IotService.cs",
+              "RelativeToolTip": "RoomBook.IotClient\\IotService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwEIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.91Z",
+              "WhenOpened": "2025-12-23T21:01:56.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "IotController.cs",
               "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\IotController.cs",
               "RelativeDocumentMoniker": "RoomBook\\Controllers\\IotController.cs",
               "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\IotController.cs",
               "RelativeToolTip": "RoomBook\\Controllers\\IotController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserUpdateDto.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\UserUpdateDto.cs",
-              "RelativeDocumentMoniker": "RoomBook\\DTO\\UserUpdateDto.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\UserUpdateDto.cs",
-              "RelativeToolTip": "RoomBook\\DTO\\UserUpdateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.983Z"
+              "WhenOpened": "2025-12-23T21:01:50.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "RoomBook\\Services\\AuthService.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Services\\AuthService.cs",
-              "RelativeToolTip": "RoomBook\\Services\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\AdminController.cs",
+              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwFAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.984Z"
+              "WhenOpened": "2025-12-23T20:59:51.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "RoomBook\\Controllers\\AuthController.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "RoomBook\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.984Z"
+              "DocumentIndex": 4,
+              "Title": "RoomBook.csproj",
+              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\RoomBook.csproj",
+              "RelativeDocumentMoniker": "RoomBook\\RoomBook.csproj",
+              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\RoomBook.csproj",
+              "RelativeToolTip": "RoomBook\\RoomBook.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T19:28:44.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\LoginDto.cs",
-              "RelativeDocumentMoniker": "RoomBook\\DTO\\LoginDto.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\LoginDto.cs",
-              "RelativeToolTip": "RoomBook\\DTO\\LoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookingsController.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\BookingsController.cs",
-              "RelativeDocumentMoniker": "RoomBook\\Controllers\\BookingsController.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\BookingsController.cs",
-              "RelativeToolTip": "RoomBook\\Controllers\\BookingsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RoomRepository.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
-              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
-              "RelativeToolTip": "RoomBook.Infrastructure\\Repositories\\RoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\Booking.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\Booking.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\Booking.cs",
-              "RelativeToolTip": "RoomBook.Core\\Entities\\Booking.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Equipment.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\Equipment.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\Equipment.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\Equipment.cs",
-              "RelativeToolTip": "RoomBook.Core\\Entities\\Equipment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RoomBookDbContext.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
-              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
-              "RelativeToolTip": "RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Room.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\Room.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\Room.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\Room.cs",
-              "RelativeToolTip": "RoomBook.Core\\Entities\\Room.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.988Z"
+              "DocumentIndex": 3,
+              "Title": "RoomBook.IotClient.csproj",
+              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.IotClient\\RoomBook.IotClient.csproj",
+              "RelativeDocumentMoniker": "RoomBook.IotClient\\RoomBook.IotClient.csproj",
+              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.IotClient\\RoomBook.IotClient.csproj",
+              "RelativeToolTip": "RoomBook.IotClient\\RoomBook.IotClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T19:17:12.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IBookingRepository.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Interfaces\\IBookingRepository.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IBookingRepository.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Interfaces\\IBookingRepository.cs",
-              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IBookingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RoomUsageReportDto.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\RoomUsageReportDto.cs",
-              "RelativeDocumentMoniker": "RoomBook\\DTO\\RoomUsageReportDto.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\RoomUsageReportDto.cs",
-              "RelativeToolTip": "RoomBook\\DTO\\RoomUsageReportDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IAuthService.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RoomUsageReportDto.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\DTOs\\RoomUsageReportDto.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\DTOs\\RoomUsageReportDto.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\DTOs\\RoomUsageReportDto.cs",
-              "RelativeToolTip": "RoomBook.Core\\DTOs\\RoomUsageReportDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AvailabilityQueryDto.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\AvailabilityQueryDto.cs",
-              "RelativeDocumentMoniker": "RoomBook\\DTO\\AvailabilityQueryDto.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\AvailabilityQueryDto.cs",
-              "RelativeToolTip": "RoomBook\\DTO\\AvailabilityQueryDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IRoomRepository.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Interfaces\\IRoomRepository.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\Interfaces\\IRoomRepository.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Interfaces\\IRoomRepository.cs",
-              "RelativeToolTip": "RoomBook.Core\\Interfaces\\IRoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BookingRequestDto.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\BookingRequestDto.cs",
-              "RelativeDocumentMoniker": "RoomBook\\DTO\\BookingRequestDto.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\DTO\\BookingRequestDto.cs",
-              "RelativeToolTip": "RoomBook\\DTO\\BookingRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "RoomBook\\Controllers\\UsersController.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "RoomBook\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RoomsController.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\RoomsController.cs",
-              "RelativeDocumentMoniker": "RoomBook\\Controllers\\RoomsController.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\RoomsController.cs",
-              "RelativeToolTip": "RoomBook\\Controllers\\RoomsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\appsettings.json",
-              "RelativeDocumentMoniker": "RoomBook\\appsettings.json",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\appsettings.json",
-              "RelativeToolTip": "RoomBook\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-22T17:07:00.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "RoomBook.Infrastructure.csproj",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj",
-              "RelativeToolTip": "RoomBook.Infrastructure\\RoomBook.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-22T17:07:00.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "RoomEquipment.cs",
-              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\RoomEquipment.cs",
-              "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\RoomEquipment.cs",
-              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\RoomEquipment.cs",
-              "RelativeToolTip": "RoomBook.Core\\Entities\\RoomEquipment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "User.cs",
               "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "RoomBook.Core\\Entities\\User.cs",
               "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Core\\Entities\\User.cs",
               "RelativeToolTip": "RoomBook.Core\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:07:00.994Z"
+              "WhenOpened": "2025-12-23T18:42:49.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Services\\AuthService.cs",
+              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Services\\AuthService.cs",
+              "RelativeToolTip": "RoomBook\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:26:14.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Controllers\\AuthController.cs",
+              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RoomBook\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:25:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomBookDbContext.cs",
+              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "RelativeDocumentMoniker": "RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "RelativeToolTip": "RoomBook.Infrastructure\\Data\\RoomBookDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:51:02.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Program.cs",
+              "RelativeDocumentMoniker": "RoomBook\\Program.cs",
+              "ToolTip": "A:\\1\\ark-pzpi-23-3-romasenko-stanislav\\Lab4\\ark-pzpi-23-3-romasenko-stanislav-Lab4\\RoomBook\\Program.cs",
+              "RelativeToolTip": "RoomBook\\Program.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAqwHcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:43:17.268Z"
             }
           ]
         }

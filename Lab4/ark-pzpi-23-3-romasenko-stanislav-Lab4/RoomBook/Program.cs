@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using RoomBook.Core.Interfaces;
-using RoomBook.Infrastructure.Data;
 using RoomBook.Infrastructure.Repositories;
 using RoomBook.API.Services; 
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -9,6 +8,8 @@ using System.Text;
 using RoomBook.API.Hubs;
 using RoomBook.Core.Services;
 using Microsoft.AspNetCore.SignalR;
+using RoomBook.Infrastructure.Data;
+using RoomBook.Core.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("RoomBookConnection");
@@ -98,16 +99,49 @@ var app = builder.Build();
 app.MapHub<RoomHub>("/roomHub");
 app.MapHub<IotHub>("/iot-hub");
 
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI(c => {
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "RoomBook API V1");
+    c.RoutePrefix = "swagger"; 
+});
 
 app.UseHttpsRedirection();
 
-//app.UseAuthentication();
-//app.UseAuthorization();  
+app.UseAuthentication();
+app.UseAuthorization();  
 
 app.MapControllers();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var service = scope.ServiceProvider;
+        var context = services.GetRequiredService<RoomBookDbContext>();
+
+        context.Database.EnsureCreated(); 
+
+        if (!context.Users.Any()) 
+        {
+            context.Users.Add(new User
+            {
+                Email = "admin@roombook.com",
+                PasswordHash = "AdminPass123",
+                FirstName = "Admin",
+                LastName = "System",
+                Role = "Administrator",
+                IsActive = true 
+            });
+            context.SaveChanges();
+            Console.WriteLine("[SEED] Адміністратор успішно доданий.");
+        }
+    }
+    catch (Exception ex)
+    {
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "Помилка при ініціалізації бази даних.");
+    }
+}
+
 app.Run();

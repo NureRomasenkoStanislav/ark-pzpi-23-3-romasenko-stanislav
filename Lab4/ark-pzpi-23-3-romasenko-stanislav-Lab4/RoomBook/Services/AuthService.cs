@@ -22,15 +22,24 @@ namespace RoomBook.API.Services
         {
             var user = await _userRepository.GetUserByEmailAsync(email);
 
-            if (user == null || !user.IsActive)
+            if (user == null)
             {
+                Console.WriteLine($"[AUTH DEBUG] Користувача {email} не знайдено в БД");
+                return null;
+            }
+
+            if (!user.IsActive)
+            {
+                Console.WriteLine($"[AUTH DEBUG] Користувач {email} знайдений, але IsActive = false");
                 return null;
             }
 
             if (user.PasswordHash != password)
             {
+                Console.WriteLine($"[AUTH DEBUG] Пароль не збігається. В БД: '{user.PasswordHash}', введено: '{password}'");
                 return null;
             }
+
             return GenerateJwtToken(user);
         }
 
